@@ -25,7 +25,7 @@
 
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-        <ignite-version>2.7.6</ignite-version>
+        <ignite-version>2.17.0</ignite-version>
     </properties>
 
     <dependencies>
